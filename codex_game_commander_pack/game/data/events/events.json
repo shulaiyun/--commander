@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "id": "naval_pressure",
+      "name": "沿海封锁压力",
+      "type": "strategic",
+      "trigger": "control_major_port",
+      "effect": "trade_pressure"
+    },
+    {
+      "id": "rail_mobilization",
+      "name": "铁路总动员",
+      "type": "logistics",
+      "trigger": "control_rail_hub",
+      "effect": "supply_bonus"
+    }
+  ]
+}

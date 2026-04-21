@@ -1,0 +1,48 @@
+{
+  "factions": [
+    {
+      "id": "republic",
+      "name": "共和国革命派",
+      "alignment": "革命",
+      "color": "#CC3A3A",
+      "starting_resources": {
+        "industry": 80,
+        "supply": 75,
+        "influence": 60
+      }
+    },
+    {
+      "id": "empire",
+      "name": "帝国扩张派",
+      "alignment": "帝国",
+      "color": "#2C5AA0",
+      "starting_resources": {
+        "industry": 88,
+        "supply": 82,
+        "influence": 65
+      }
+    },
+    {
+      "id": "foreign_concession",
+      "name": "列强租界集团",
+      "alignment": "列强",
+      "color": "#3A8A5A",
+      "starting_resources": {
+        "industry": 76,
+        "supply": 90,
+        "influence": 78
+      }
+    },
+    {
+      "id": "warlord",
+      "name": "地方军政集团",
+      "alignment": "地方派系",
+      "color": "#8C6B2F",
+      "starting_resources": {
+        "industry": 52,
+        "supply": 68,
+        "influence": 44
+      }
+    }
+  ]
+}
